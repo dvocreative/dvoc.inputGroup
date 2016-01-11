@@ -19,7 +19,8 @@
             children.push(GB.getMethod('component').createElement(
                 GB.getResource('dvoc', 'Input'),
                 {
-                    type : this.props.type || 'text'
+                    type : this.props.type || 'text',
+                    placeholder : this.props.placeholder || ''
                 }
             ));
 
