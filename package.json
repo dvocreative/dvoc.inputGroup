@@ -1,0 +1,19 @@
+{
+  "name": "dvoc.inputgroup",
+  "version": "1.0.3",
+  "description": "",
+  "main": "src/dvoc.inputGroup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dvodonnell@github.com/dvocreative/dvoc.inputGroup.git"
+  },
+  "author": "Dan O'Donnell <dan@dvoc.ca> (http://dvoc.ca)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvocreative/dvoc.inputGroup/issues"
+  },
+  "homepage": "https://github.com/dvocreative/dvoc.inputGroup#readme"
+}
