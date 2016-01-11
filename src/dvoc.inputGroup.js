@@ -25,7 +25,9 @@
 
             return GB.getMethod('component').createElement(
                 'div',
-                {},
+                {
+                    className : 'form-group'
+                },
                 children
             );
 
