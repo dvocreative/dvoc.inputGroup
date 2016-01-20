@@ -20,7 +20,8 @@
                 GB.getResource('dvoc', 'Input'),
                 {
                     type : this.props.type || 'text',
-                    placeholder : this.props.placeholder || ''
+                    placeholder : this.props.placeholder || '',
+                    name : this.props.name || ''
                 }
             ));
 
